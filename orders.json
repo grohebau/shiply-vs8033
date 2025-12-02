@@ -1,0 +1,47 @@
+{
+  "S86142": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Germany",
+    "receiver": "Luka Hafner, Letališka Cesta 14, 1000 Ljubljana, Slovenia",
+    "price": "7.250 €",
+    "description": "Manufacturer: Yamaha<br>Model: DM11 Tenere 700<br>Chassis number: VG5DM112000008865<br>First registration: 10/2023<br>Mileage according to previous owner: 6.850 km<br>Power: 54 kW (73 PS)<br>Engine capacity: 689 cm³<br>Color: Gray<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.",
+    "address": "Luka Hafner<br>Letališka Cesta 14<br>1000 Ljubljana<br>Slovenia<br>Telefon: +386 41 631 494",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "02-12-2025",
+    "deliveryDate": "09-12-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
